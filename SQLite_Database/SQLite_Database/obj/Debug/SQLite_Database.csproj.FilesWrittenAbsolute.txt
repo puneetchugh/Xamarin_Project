@@ -1,0 +1,11 @@
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/obj/Debug/SQLite_Database.MainPage.xaml
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/obj/Debug/MainPage.xaml.g.cs
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/bin/Debug/SQLite_Database.dll.mdb
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/bin/Debug/SQLite_Database.dll
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/obj/Debug/SQLite_Database.dll
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/obj/Debug/SQLite_Database.dll.mdb
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/bin/Debug/Xamarin.Forms.Core.dll
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/bin/Debug/SQLitePCL.raw.dll
+/Users/puneetchugh/Projects/SQLite_Database/SQLite_Database/bin/Debug/SQLite-net.dll
